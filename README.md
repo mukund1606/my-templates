@@ -13,6 +13,8 @@
 - [x] T3-ENV
 - [x] Zod
 
+## T3 APP Router Template
+
 Will add more templates as I create them.
 
 ### Inspiration -
